@@ -1,0 +1,5 @@
+# nao quero mais ignorar todos os arquivos .txt
+# *.txt
+
+# ignorar o aarquivo senha.txt
+senha.txt
